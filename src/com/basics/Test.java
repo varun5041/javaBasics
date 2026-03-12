@@ -13,7 +13,7 @@ package com.basics;
             greet();
         }
 
-        System.out.println("hello world");
+        System.out.println("hello world")
         System.out.println("gello");
         
     }
