@@ -34,6 +34,7 @@ public class Student {
     public void changeName(String newName){
         this.name=newName;
     }
+
     @Override
     protected void finalize() throws Throwable {
         System.out.println("OBJECT DESTROYED");
