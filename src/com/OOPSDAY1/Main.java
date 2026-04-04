@@ -1,9 +1,11 @@
 package com.OOPSDAY1;
 
+import com.OOPSDAY4.Access.p1.A;
+
 public class Main {
 
 
-//    public static void main(String[] args) {
+    public static void main(String[] args) {
 //        Student student1 =  new Student();
 //        student1.name="varun";
 //        student1.marks=99.99f;
@@ -94,5 +96,5 @@ public class Main {
 //        int temp = a;
 //        a= b;
 //        b= temp;
-//    }
+    }
 }
